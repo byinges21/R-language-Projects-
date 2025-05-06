@@ -1,4 +1,4 @@
-#Social Network Analysis, R and Sql-
+# Social Network Analysis, R and Sql-
 
 Social Network Analysis
 technology used: r and sql
